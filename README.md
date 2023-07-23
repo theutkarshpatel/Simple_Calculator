@@ -6,7 +6,7 @@
 2.The expression is converted into the string.<br>
 3.It is evaluated using JavaScript and displayed.<br>
 
-<ul> <li> <h3> Tech used </h3>  </li></ul>
+<ul> <li> <h3> Tech stack used </h3>  </li></ul>
 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
